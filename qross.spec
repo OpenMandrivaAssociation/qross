@@ -6,7 +6,7 @@
 
 Name:           qross
 Version:        0.3.1
-Release:        1
+Release:        2
 License:        LGPLv2+
 Summary:        A Qt-only fork of Kross
 Url:            https://github.com/0xd34df00d/Qross
