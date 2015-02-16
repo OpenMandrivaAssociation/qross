@@ -66,6 +66,7 @@ Group:          Development/C
 Requires:       cmake
 Requires:       %{libname} = %{EVRD}
 Requires:       pkgconfig(QtCore)
+Provides:       Qross-devel = %{EVRD}
 
 %description -n %{devname}
 The %{name}-devel package contains libraries and header files for
