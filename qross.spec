@@ -80,7 +80,7 @@ developing applications that use %{name}.
 %{_libdir}/qt4/plugins/script/*%{name}*.so
 %dir %{_datadir}/leechcraft
 %dir %{_datadir}/leechcraft/cmake
-%{_datadir}/*/*/FindQrosscore.cmake
+%{_datadir}/cmake/Modules/FindQrosscore.cmake
 #-------------------------------------
 
 %prep
